@@ -1,0 +1,20 @@
+2a60927148abd1d33b818b535e306557
+::res://::1688574829
+icon.svg::CompressedTexture2D::3391909313695754998::1688574758::1688574763::1::::<><>::
+::res://art/::1686964387
+enemyFlyingAlt_1.png::CompressedTexture2D::1824081657926035558::1686964387::1688574842::1::::<><>::
+enemyFlyingAlt_2.png::CompressedTexture2D::2367192086996652517::1686964387::1688574842::1::::<><>::
+enemySwimming_1.png::CompressedTexture2D::4506743338561294727::1686964387::1688574842::1::::<><>::
+enemySwimming_2.png::CompressedTexture2D::4839295378772200580::1686964387::1688574842::1::::<><>::
+enemyWalking_1.png::CompressedTexture2D::2263748243262696615::1686964387::1688574842::1::::<><>::
+enemyWalking_2.png::CompressedTexture2D::8650093803223551478::1686964387::1688574842::1::::<><>::
+gameover.wav::AudioStreamWAV::6484884186395803119::1686964387::1688574842::1::::<><>::
+House In a Forest Loop.ogg::AudioStreamOggVorbis::8965919612900669342::1686964387::1688574842::1::::<><>::
+playerGrey_up1.png::CompressedTexture2D::1042225815560827011::1686964387::1688574842::1::::<><>::
+playerGrey_up2.png::CompressedTexture2D::3856190081179778363::1686964387::1688574842::1::::<><>::
+playerGrey_walk1.png::CompressedTexture2D::976812386222417549::1686964387::1688574842::1::::<><>::
+playerGrey_walk2.png::CompressedTexture2D::5255656515439752756::1686964387::1688574842::1::::<><>::
+::res://fonts/::1686964387
+FONTLOG.txt::TextFile::-1::1686964387::0::1::::<><>::
+LICENSE.txt::TextFile::-1::1686964387::0::1::::<><>::
+Xolonium-Regular.ttf::FontFile::66023579360651098::1686964387::1688574842::1::::<><>::
