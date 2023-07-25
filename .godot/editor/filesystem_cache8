@@ -1,8 +1,9 @@
 2a60927148abd1d33b818b535e306557
-::res://::1688664228
+::res://::1690287871
 icon.svg::CompressedTexture2D::3391909313695754998::1688574758::1688574763::1::::<><>::
-player.tscn::PackedScene::7952544839047884360::1688577656::0::1::::<><>::uid://o34ko13qa35x<>uid://bu675fwdtjd7x<>uid://n6f7svhdcuob<>uid://cg445otbt6p4w
-README.md::TextFile::-1::1688577447::0::1::::<><>::
+player.gd::GDScript::-1::1688666479::0::1::::<>Area2D<>::
+player.tscn::PackedScene::7952544839047884360::1689926918::0::1::::<><>::uid://o34ko13qa35x<>res://player.gd<>uid://bu675fwdtjd7x<>uid://n6f7svhdcuob<>uid://cg445otbt6p4w
+README.md::TextFile::-1::1688667062::0::1::::<><>::
 ::res://art/::1688574842
 enemyFlyingAlt_1.png::CompressedTexture2D::1824081657926035558::1686964387::1688574842::1::::<><>::
 enemyFlyingAlt_2.png::CompressedTexture2D::2367192086996652517::1686964387::1688574842::1::::<><>::
