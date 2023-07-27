@@ -1,6 +1,6 @@
 2a60927148abd1d33b818b535e306557
-::res://::1690379855
-export_presets.cfg::TextFile::-1::1690379182::0::1::::<><>::
+::res://::1690435800
+export_presets.cfg::TextFile::-1::1690380018::0::1::::<><>::
 HUD.gd::GDScript::-1::1690375713::0::1::::<>CanvasLayer<>::
 hud.tscn::PackedScene::5168878115942489693::1690379106::0::1::::<><>::res://HUD.gd<>uid://68ns50b2t1s
 icon.svg::CompressedTexture2D::3391909313695754998::1688574758::1688574763::1::::<><>::
